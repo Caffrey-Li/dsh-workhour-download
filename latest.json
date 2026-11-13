@@ -1,0 +1,16 @@
+{
+  "name": "dsh-workhour-filler",
+  "version": "0.5.7",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.5.7.tgz.enc",
+  "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.5.7.tgz",
+  "sha256": "5eade5e9754d532f0e222864a197efe89e87172223685e4529cb1bfee77da680",
+  "size": 117371,
+  "releasedAt": "2026-11-13T17:07:12.054Z",
+  "notes": "工时填报 v0.5.7",
+  "enc": {
+    "salt": "nKeB51QflpRnHUqexMtssQ==",
+    "iv": "XLYiLG78M40cR97i",
+    "iterations": 210000
+  }
+}
