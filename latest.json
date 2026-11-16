@@ -1,16 +1,11 @@
 {
   "name": "dsh-workhour-filler",
-  "version": "0.6.0",
-  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.0.tgz.enc",
+  "version": "0.6.1",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.1.tgz",
   "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
-  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.0.tgz",
-  "sha256": "d6ea4572582595ddb14124b18a1b345f5e15699a9401b0ff159eaadb53d262a1",
-  "size": 121418,
-  "releasedAt": "2026-11-16T06:56:34.229Z",
-  "notes": "工时填报 v0.6.0",
-  "enc": {
-    "salt": "GHTz538G3Jr1yDyfZ6pNIg==",
-    "iv": "JoCCtUFuV8tZwwt5",
-    "iterations": 210000
-  }
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.1.tgz",
+  "sha256": "af568dc1aad4732fd18ca343c868297591af16c6561f3a1d27d5312f643fe6ef",
+  "size": 121690,
+  "releasedAt": "2026-11-16T17:47:06.086Z",
+  "notes": "修复工时提交确认、日历回读和浏览器启动兼容性"
 }
