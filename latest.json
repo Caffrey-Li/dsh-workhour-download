@@ -1,11 +1,11 @@
 {
   "name": "dsh-workhour-filler",
-  "version": "0.7.0",
-  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.0.tgz",
+  "version": "0.7.1",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.1.tgz",
   "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
-  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.0.tgz",
-  "sha256": "d13b926b336d85948a19f4f27979ffa48669ade44fc5b9faabd46e7eca949f16",
-  "size": 124154,
-  "releasedAt": "2026-11-17T00:25:42.339Z",
-  "notes": "新版工时工作台与侧栏入口，优化定时草稿保存、补填日历和提交确认"
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.1.tgz",
+  "sha256": "24315b83385b926922c0987362139e0c78d161bd2e687647c7204737e01f8482",
+  "size": 124515,
+  "releasedAt": "2026-11-17T05:25:08.007Z",
+  "notes": "周末和节假日日历格使用灰底，区分权限错误与账号密码错误并清理错误提示"
 }
