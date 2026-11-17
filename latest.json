@@ -1,11 +1,11 @@
 {
   "name": "dsh-workhour-filler",
-  "version": "0.6.1",
-  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.1.tgz",
+  "version": "0.7.0",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.0.tgz",
   "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
-  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.6.1.tgz",
-  "sha256": "af568dc1aad4732fd18ca343c868297591af16c6561f3a1d27d5312f643fe6ef",
-  "size": 121690,
-  "releasedAt": "2026-11-16T17:47:06.086Z",
-  "notes": "修复工时提交确认、日历回读和浏览器启动兼容性"
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.0.tgz",
+  "sha256": "d13b926b336d85948a19f4f27979ffa48669ade44fc5b9faabd46e7eca949f16",
+  "size": 124154,
+  "releasedAt": "2026-11-17T00:25:42.339Z",
+  "notes": "新版工时工作台与侧栏入口，优化定时草稿保存、补填日历和提交确认"
 }
