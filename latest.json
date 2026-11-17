@@ -1,11 +1,11 @@
 {
   "name": "dsh-workhour-filler",
-  "version": "0.7.2",
-  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.2.tgz",
+  "version": "0.7.3",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.3.tgz",
   "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
-  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.2.tgz",
-  "sha256": "fa65af0922076a78ce46c485d4700317a0cfa2b49501d09373849ba68a160f74",
-  "size": 124864,
-  "releasedAt": "2026-11-17T05:53:03.342Z",
-  "notes": "当天填报和批量补填新增常驻执行进度，显示当前日期与步骤，结束后在同一区域展示结果"
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.3.tgz",
+  "sha256": "ff3c88f1415c4262c02fe422a02aace2160b836a9b8cf82ef0dce4b8e5d68424",
+  "size": 125743,
+  "releasedAt": "2026-11-17T06:44:44.065Z",
+  "notes": "Windows 浏览器启动失败时尝试已安装的 Edge，并在诊断中显示实际启动结果"
 }
