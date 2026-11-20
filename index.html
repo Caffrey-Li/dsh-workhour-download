@@ -90,7 +90,7 @@
     </div>
 
     <section id="win-block" hidden>
-      <a class="btn" id="zip-btn" href="dsh-workhour-filler-0.7.4.zip" download>下载 Windows 版 0.7.4（zip）</a>
+      <a class="btn" id="zip-btn" href="dsh-workhour-filler-0.7.5.zip" download>下载 Windows 版 0.7.5（zip）</a>
       <div class="hint">解压后得到一个文件夹（已自带 <code>node_modules</code>，别删）。**选里面那层「含 package.json」的文件夹**；如果解压后出现两层同名文件夹，选内层。</div>
     </section>
 
@@ -105,7 +105,7 @@
     <ol id="steps"></ol>
 
     <div class="direct">
-      <div class="direct-title">固定地址安装 · 当前版本 0.7.4</div>
+      <div class="direct-title">固定地址安装 · 当前版本 0.7.5</div>
       <div class="direct-row">
         <input id="direct" readonly value="https://caffrey-li.github.io/dsh-workhour-download/latest.tgz" />
         <button class="link" id="copy">复制</button>
@@ -145,13 +145,13 @@ function detectOs() {
 
 const STEPS = {
   win: [
-    '解压 zip，得到 <code>dsh-workhour-filler-0.7.4</code> 文件夹（里面有 <code>node_modules</code>，不要删、不要只拷代码），放到一个不会移动的位置（比如 <code>%USERPROFILE%\\Apps\\</code>）。',
+    '解压 zip，得到 <code>dsh-workhour-filler-0.7.5</code> 文件夹（里面有 <code>node_modules</code>，不要删、不要只拷代码），放到一个不会移动的位置（比如 <code>%USERPROFILE%\\Apps\\</code>）。',
     'DeepSeek Harness → 设置 → <b>插件</b> → <b>新增插件</b> → <b>选这个文件夹</b>（不要选 .tgz：pnpm 会把文件名当成注册表包名，报 <code>ERR_PNPM_INVALID_PACKAGE_NAME</code>）。',
     '重启 DSH，到设置 →「工时填报」里配置。',
   ],
   mac: [
     'DeepSeek Harness → 设置 → <b>插件</b> → <b>新增插件</b> → 粘贴上面那个<b>固定地址</b>（推荐，以后能自动更新）。',
-    '当前版本：<a href="dsh-workhour-filler-0.7.4.tgz" download>下载 0.7.4 安装包</a>。',
+    '当前版本：<a href="dsh-workhour-filler-0.7.5.tgz" download>下载 0.7.5 安装包</a>。',
     '重启 DSH，到设置 →「工时填报」里配置。',
   ],
   other: [
@@ -171,7 +171,7 @@ function render(os) {
     lead.textContent = '这是 Windows 版安装包（zip，不需要密码）。';
   } else if (os === 'mac') {
     badge.textContent = '检测到 macOS';
-    lead.textContent = '推荐使用固定地址安装 0.7.4。';
+    lead.textContent = '推荐使用固定地址安装 0.7.5。';
   } else {
     badge.textContent = '未识别系统';
     lead.textContent = '两种安装包都在下面，按你的系统选。';

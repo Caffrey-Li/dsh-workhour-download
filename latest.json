@@ -1,11 +1,11 @@
 {
   "name": "dsh-workhour-filler",
-  "version": "0.7.4",
-  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.4.tgz",
+  "version": "0.7.5",
+  "file": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.5.tgz",
   "channel": "https://caffrey-li.github.io/dsh-workhour-download/latest.tgz",
-  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.4.tgz",
-  "sha256": "bbb38563b3d7299d7c58b231b74aa07da1032ec1beb562f3001f0ba8e4230aac",
-  "size": 129812,
-  "releasedAt": "2026-11-19T16:45:41.473Z",
-  "notes": "近一周填报窗口自动更新，macOS 和 Windows 支持 DSH 后台定时、无人值守及自动安装官方更新"
+  "tgz": "https://caffrey-li.github.io/dsh-workhour-download/dsh-workhour-filler-0.7.5.tgz",
+  "sha256": "97214cf12dbf10937eca52996181fbae78cf05c8bb0e0633e54845d4c947de72",
+  "size": 130792,
+  "releasedAt": "2026-11-20T06:12:05.320Z",
+  "notes": "同步和刷新增加进度与完成提示，Windows 停用旧批处理定时并隐藏任务查询控制台。"
 }
